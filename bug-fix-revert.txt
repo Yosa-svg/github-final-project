@@ -1,0 +1,4 @@
+$ curl -s https://api.github.com/repos/Yosa-svg/mcino-Introduction-to-Git-and-GitHub/pulls | grep '"title"'
+    "title": "Fix typo in README",
+$ curl -s https://api.github.com/repos/Yosa-svg/mcino-Introduction-to-Git-and-GitHub/pulls | grep '"state"'
+    "state": "open",
